@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do app</title>
+    <link rel="stylesheet" href="./index.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css"
+      integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <main>
+      <section class="app-section">
+        <form class="app-form">
+          <h3 class="title">Simple To-Do List</h3>
+          <div class="form-control">
+            <input
+              type="text"
+              class="task-content"
+              id="task-content"
+              placeholder="learn Japanese"
+              required
+            />
+            <button type="submit" class="btn create-task-button">
+              <i class="fa-solid fa-circle-plus"></i>
+            </button>
+          </div>
+          <div class="buttons-container">
+            <button type="button" class="btn all-button">all</button>
+            <button type="button" class="btn active-button">in progress</button>
+            <button type="button" class="btn completed-button">
+              completed
+            </button>
+          </div>
+        </form>
+
+        <div class="task-container">
+          <div class="list-of-tasks"></div>
+        </div>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
