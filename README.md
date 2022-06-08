@@ -13,6 +13,7 @@ It's simple to-do app project made with connection to browser local storage for 
   * Checking task as completed
   * Deleting task
   * Storing data in browser local storage
+  * Simple filtering of completed/ non completed tasks
 
 ### Prequisites :books::notebook:
   1. Basic knowledge and understanding of HTML(5)
@@ -29,3 +30,6 @@ It's simple to-do app project made with connection to browser local storage for 
 
 ### Setup
   Download project and run in browser.
+  
+####Future
+ I'm thinking about adding to buttons hover effect which will show info about them(whet they will do) also modal which will ask user about deleting file or not and popup messages about performed actions.
