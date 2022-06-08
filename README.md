@@ -32,4 +32,4 @@ It's simple to-do app project made with connection to browser local storage for 
   Download project and run in browser.
   
 #### Future
- I'm thinking about adding to buttons hover effect which will show info about them(whet they will do) also modal which will ask user about deleting file or not and popup messages about performed actions.
+ I'm thinking about adding to buttons hover effect which will show info about them(what they will do) also modal which will ask user about deleting file or not and popup messages about performed actions.
