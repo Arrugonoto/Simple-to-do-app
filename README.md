@@ -2,7 +2,8 @@
 
 ![setup_app](https://user-images.githubusercontent.com/90615223/172655886-b663d6ca-d29c-4270-b33f-f337a494a45b.png)
 
-#General info
+# General info
+
 It's simple to-do app project made with connection to browser local storage for storing data about created tasks.
 
 **Project contains:**
