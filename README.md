@@ -24,7 +24,7 @@ It's simple to-do app project made with connection to browser local storage for 
   4. Knowledge about functional programming
   5. Knowledge about browser local storage method
 
-### Technologies
+### Tech
   * HTML5
   * CSS3
   * JavaScript(ES6)
