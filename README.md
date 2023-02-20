@@ -1,6 +1,6 @@
 # Simple-to-do-app
 
-![setup_app](https://user-images.githubusercontent.com/90615223/172660810-407e2e48-9812-4f2b-8309-357f7f9eb483.png)
+![setup_app]<img src="https://user-images.githubusercontent.com/90615223/172660810-407e2e48-9812-4f2b-8309-357f7f9eb483.png">(https://arrugonoto.github.io/Simple-to-do-app/)
 
 # General info
 
