@@ -6,7 +6,7 @@
 
 It's simple to-do app project made with connection to browser local storage for storing data about created tasks.
 
-:exclamation: **After clearing browser data, local storage data will also be cleared, remember about it**
+:exclamation: **After clearing of browser data, local storage data will also be cleared, remember about it**
 
 **Project contains:**
   * Creating tasks
