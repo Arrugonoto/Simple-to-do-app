@@ -33,7 +33,7 @@ It's simple to-do app project made with connection to browser local storage for 
   * Font Awesome icons - https://fontawesome.com/icons
 
 ### Setup
-  Download project and run in browser.
+  Download project and run in browser by double click on index.html file.
   
 #### Future
  I'm thinking about adding to buttons hover effect which will show info about them(what they will do) also modal which will ask user about deleting file or not and popup messages about performed actions.
