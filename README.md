@@ -2,6 +2,8 @@
 
 [![App setup](https://user-images.githubusercontent.com/90615223/172660810-407e2e48-9812-4f2b-8309-357f7f9eb483.png)](https://arrugonoto.github.io/Simple-to-do-app/)
 
+####Live demo :point_right: (https://arrugonoto.github.io/Simple-to-do-app/)
+
 # General info
 
 It's simple to-do app project made with connection to browser local storage for storing data about created tasks.
